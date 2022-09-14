@@ -1,0 +1,16 @@
+{
+    "appName": "LoggerSuite",
+    "description": "Homepage of Logger tools",
+    "appUrl": "./index.html",
+    "configUrl": "./appconfig.json",
+    "iconUrl": "./images/Blood Bank Ledger.png",
+    "defaultWidth": 508,
+    "defaultHeight": 508,
+	"minWidth": 530,
+	"minHeight": 400,
+	"maxWidth": 1000,
+	"maxHeight": 1000,
+	"requestHandlers": [ ],
+	"activators": [	],
+    "permissions": "pixel,gamestate,overlay"
+}
