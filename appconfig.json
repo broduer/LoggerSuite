@@ -1,6 +1,6 @@
 {
     "appName": "LoggerSuite",
-    "description": "Homepage of Logger tools",
+    "description": "All-in-one plugin homepage of Logger tools",
     "appUrl": "./index.html",
     "configUrl": "./appconfig.json",
     "iconUrl": "./images/Blood Bank Ledger.png",
