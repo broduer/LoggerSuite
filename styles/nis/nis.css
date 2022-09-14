@@ -497,6 +497,18 @@ mainsection {
   user-select: none;
 }
 
+.addlogger {
+  position: relative;
+  text-align: center;
+  font-size: 17px;
+  width: 460px;
+  padding: 2px 10px;
+  margin: 10px auto 0px auto;
+  border: 5px solid #128ed6;
+  border-style: ridge;
+  background: #171e24;
+}
+
 .plugin {
   display: grid;
   grid-template-columns: repeat(2, auto);
