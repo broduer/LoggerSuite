@@ -33,14 +33,14 @@ To install with the direct link
 
 ### Currently available plugins
 * <span style="font-size: 17px;">OpenLogger: An open-source Treasure Trails rewards logger</span>
-    *  Github: https://redx1000.github.io/OpenLogger/
     *  RuneApps Forums: https://runeapps.org/forums/viewtopic.php?id=1442
+    *  Github Page: https://redx1000.github.io/OpenLogger/
 * <span style="font-size: 17px;">BarrowsLogger: An open-source Barrows rewards logger</span>
-    *  Github: https://redx1000.github.io/BarrowsLogger/
     *  RuneApps Forums: https://runeapps.org/forums/viewtopic.php?id=1475
+    *  Github Page: https://redx1000.github.io/BarrowsLogger/
 * <span style="font-size: 17px;">TetraLogger: An open-source Tetracompass rewards logger</span>
-    *  Github: https://redx1000.github.io/TetraLogger/
     *  RuneApps Forums: https://runeapps.org/forums/viewtopic.php?id=1480
+    *  Github Page: https://redx1000.github.io/TetraLogger/
 
 ### Potential or planned updates
 * Crystal Keys & Triskelions, Croesus, and TzKal-Zuk are next...
