@@ -1,7 +1,7 @@
 # LoggerSuite
 ### The All-in-one plugin for my Logger plugins.
 #### Report bugs or questions, message me 🙂 -> Discord: RedX1000#3655
-#### RuneApps forum page: NONEXISTENT FOR NOW
+#### RuneApps forum page: https://runeapps.org/forums/viewtopic.php?id=1481
 <br><br>
 
 ### Table of Contents
